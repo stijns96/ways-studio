@@ -1,5 +1,6 @@
 {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true,
-    "npm.packageManager": "pnpm"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "npm.packageManager": "pnpm",
+  "npm-scripts.showStartNotification": false
 }
