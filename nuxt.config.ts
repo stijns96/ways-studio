@@ -5,4 +5,6 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
+  extends: ["@nuxt/ui-pro"],
+  modules: ["@nuxt/ui"],
 });
